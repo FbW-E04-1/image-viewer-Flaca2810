@@ -1,0 +1,30 @@
+#viewport {
+
+overflow:auto;
+
+}
+
+#wrapper {
+
+width: calc(9 * 402px - 2px);
+height: 400px ;
+background-color: thistle;
+
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+img {
+
+height:100%;
+float:left;
+margin-right: 2px;
+}
+
+img:last-child {
+
+ margin:0;
+}
+   
